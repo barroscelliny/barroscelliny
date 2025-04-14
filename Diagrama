@@ -1,9 +1,119 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12">
   <diagram name="Página-1" id="0qgBJ1EB9LAWdMJ4KrIB">
-    <mxGraphModel>
+    <mxGraphModel dx="1420" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-1" value="Inicio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f9rYhNhd7AO4kiECAL7S-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-3" value="Separe os ingredientes (carne de frango ou bovina, alho, cebola e temperos a gosto, molho de tomate, creme de leite e óleo) de acordo com o numero de pessoas que irá comer." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="90" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f9rYhNhd7AO4kiECAL7S-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="220" as="sourcePoint" />
+            <mxPoint x="400" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-5" value="Separe uma panela adequada." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="380" as="sourcePoint" />
+            <mxPoint x="399.5" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-7" value="Pique a carne em pequenos cubos e reserve." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="520" as="sourcePoint" />
+            <mxPoint x="400" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-11" value="Pique os temperos&amp;nbsp;&lt;div&gt;(alho e cebola)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="650" as="sourcePoint" />
+            <mxPoint x="399.5" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-13" value="Coloque a panela no fogo." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="790" as="sourcePoint" />
+            <mxPoint x="399.5" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-15" value="Coloque o oléo, alho e cebola e deixe dourar." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="920" as="sourcePoint" />
+            <mxPoint x="399.5" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-17" value="Apos dourar, coloque a carne, mexa, tampe a panela e deixe cozinhar." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="1050" as="sourcePoint" />
+            <mxPoint x="399.5" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-19" value="Apos o cozimento da carne, coloque os temperos e mexa." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="1190" as="sourcePoint" />
+            <mxPoint x="399.5" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-21" value="Coloque os molhos, mexa e deixe ferver por 2 minutos." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="1330" as="sourcePoint" />
+            <mxPoint x="399.5" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-23" value="Desligue o fogão e sirva o strogonoff." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="70" as="sourcePoint" />
+            <mxPoint x="399.5" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="399.5" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-28" value="Fim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9rYhNhd7AO4kiECAL7S-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="1470" as="sourcePoint" />
+            <mxPoint x="400" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
